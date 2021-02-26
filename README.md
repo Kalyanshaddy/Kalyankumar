@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kalyankumar S</h1>
@@ -8,13 +7,10 @@
 <a href="https://www.facebook.com/kalyan.shaddy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Kalyankumar S" height="30" width="40" /></a>
  <a href = "mailto: 2020mt93039.wilp.bits-pilani.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
-</p>
-
-
 
 <p align="center">
   <em>
-    This is ME, Kalyankumar S, a <b>first year</b> postgraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology & Science </b>, Pilani</a>. <br>
+    This is ME, Kalyankumar S, a <b>first year</b> postgraduate from <a href="https://www.bitspilani.ac.in/"> <b>Birla Institute of Technology & Science </b>, Pilani</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -39,8 +35,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
